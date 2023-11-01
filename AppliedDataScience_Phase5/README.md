@@ -5,7 +5,7 @@ This Jupyter Notebook is dedicated to the analysis of demographic characteristic
 ## Prerequisites
 1. You need to have Python installed on your system.
 2. Install Jupyter Notebook and the required libraries using pip:
-   pip install jupyter numpy pandas matplotlib seaborn
+   pip install jupyter numpy, pandas, matplotlib, seaborn
    
 
 ## Steps to Run the Code
